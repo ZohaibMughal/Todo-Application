@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "zohaib",
+    "password": "zohaib1212",
+    "database": "NodeByTony",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "zohaib",
+    "password": "zohaib1212",
+    "database": "NodeByTony",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "zohaib",
+    "password": "zohaib1212",
+    "database": "NodeByTony",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "expressgenerator",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "test":"jasmine-node spec"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "pg": "^7.3.0",
+    "pg-hstore": "^2.3.2",
+    "request": "^2.83.0",
+    "sequelize": "^4.15.0",
+    "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
